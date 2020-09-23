@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-## Thumbnail Control - OCX Source<br/>by Prateek Nigam
+## Thumbnail Control \- OCX Source
 
 <img src="PIC20044301149562548.jpg">
 </div>
@@ -18,4 +18,26 @@ Menu : rightclick on the image. select zoom. the original image will be displaye
 I welcome bugs and/or suggestions.
 
 Vote if you like .... not mandatory.
+ 
+### More Info
+ 
+
+
+<span>             |<span>
+---                |---
+**Submitted On**   |2004-04-29 12:39:28
+**By**             |[Prateek Nigam](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByAuthor/prateek-nigam.md)
+**Level**          |Advanced
+**User Rating**    |4.5 (18 globes from 4 users)
+**Compatibility**  |VB 6\.0
+**Category**       |[OLE/ COM/ DCOM/ Active\-X](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByCategory/ole-com-dcom-active-x__1-29.md)
+**World**          |[Visual Basic](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByWorld/visual-basic.md)
+**Archive File**   |[Thumbnail\_1739224302004\.zip](https://github.com/Planet-Source-Code/prateek-nigam-thumbnail-control-ocx-source__1-53482/archive/master.zip)
+
+
+
+
+
+
+
 
